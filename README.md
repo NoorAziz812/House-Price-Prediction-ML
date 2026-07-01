@@ -1,18 +1,18 @@
-# House Price Prediction using Machine Learning
+# 🏠 House Price Prediction using Machine Learning
 
-## Overview
+## 📋 Overview
 
 This project predicts residential property prices using machine learning techniques and housing-related features. The objective is to estimate property prices accurately based on various property characteristics.
 
 ---
 
-## Problem Statement
+## ❓ Problem Statement
 
-Real estate prices are influenced by multiple factors such as location, zoning, building type, lot configuration, and other property attributes. The goal of this project is to build a regression model capable of predicting house prices using historical housing data.
+Real estate prices are influenced by multiple factors such as location, zoning, building type, lot configuration, and other property attributes. The goal of this project is to build a regression model that can accurately predict property prices based on these features.
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 Source: Kaggle
 
@@ -28,7 +28,7 @@ Features include:
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -38,7 +38,7 @@ Features include:
 
 ---
 
-## Project Workflow
+## 🔄 Project Workflow
 
 1. Data Loading
 2. Data Cleaning
@@ -51,7 +51,7 @@ Features include:
 
 ---
 
-## Data Preprocessing
+## 🔧 Data Preprocessing
 
 Performed the following preprocessing steps:
 
@@ -63,13 +63,13 @@ Performed the following preprocessing steps:
 
 ---
 
-## Model Used
+## 🤖 Model Used
 
 - Linear Regression
 
 ---
 
-## Evaluation Metrics
+## 📈 Evaluation Metrics
 
 - R² Score
 - Mean Absolute Error (MAE)
@@ -78,13 +78,13 @@ Performed the following preprocessing steps:
 
 ---
 
-## Results
+## ✅ Results
 
 The Linear Regression model was trained and evaluated using multiple regression metrics to assess prediction performance.
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
 - Random Forest Regressor
 - Gradient Boosting
@@ -94,7 +94,7 @@ The Linear Regression model was trained and evaluated using multiple regression 
 
 ---
 
-## Author
+## 👤 Author
 
 Noor Aziz
 
